@@ -1,4 +1,4 @@
-# Schedule Planner App: Your Ultimate To-Do List Manager
+# Schedule Planner
 
 The Schedule Planner App is a powerful tool designed to help users manage their tasks and stay organized. This app includes features such as task scheduling, reminders, and categorization of tasks. In this version, we introduce several new widgets and functionalities to enhance user experience and streamline task management. Key widgets include `Drawer`, `SnackBar`, `AlertDialog`, `Chip`, `Radio`, `PopupMenuButton`, and `ExpansionPanel`. We will also discuss form validation, passing arguments through named routes, and using `Provider` for state management.
 
